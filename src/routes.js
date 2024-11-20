@@ -41,6 +41,10 @@ const router = createBrowserRouter([
     ],
   },
   
+{
+  basename: "/react-app"
+}
+  
 ]);
 
 export function AppRouter() {
